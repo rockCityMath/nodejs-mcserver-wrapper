@@ -1,5 +1,5 @@
 # Description
-A wrapper for a minecraft server executable allowing you to control the server and interface with the console in real time through the use of SocketIO. Just a smal program I made to learn the technologies and for use with my frontend project.
+A wrapper for a minecraft server executable allowing you to control the server and interface with the console in real time through the use of SocketIO. Just a small program I made to learn the technologies and for use with my frontend project.
 
 **Installing/Using**    
 - npm install
